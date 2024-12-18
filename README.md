@@ -3,7 +3,7 @@
 
 Portfolio Website
 
-This repository contains the code for my personal portfolio website, showcasing my skills, projects, and experience as a developer. The website is built using HTML, CSS, and JavaScript (or any other technologies you're using). It includes:
+This repository contains the code for my personal portfolio website, showcasing my skills, projects, and experience as a developer. The website is built using HTML, CSS, and JavaScript includes:
 
 A Home page introducing myself and my skills.
 A Projects section with descriptions of various projects I’ve worked on.
@@ -12,7 +12,5 @@ An About Me section detailing my background.
 Technologies used:
 
 Frontend: HTML, CSS, JavaScript .
-.
-Hosting: GitHub Pages.
-Feel free to check out the live version of the site here: [link to live site]
+
 
