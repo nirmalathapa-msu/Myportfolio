@@ -11,8 +11,8 @@ A Contact form where visitors can reach out to me.
 An About Me section detailing my background.
 Technologies used:
 
-Frontend: HTML, CSS, JavaScript (or React, if you used it)
-Backend (if applicable): Node.js, Python (Django/Flask), etc.
-Hosting: GitHub Pages, Netlify, etc.
+Frontend: HTML, CSS, JavaScript .
+.
+Hosting: GitHub Pages.
 Feel free to check out the live version of the site here: [link to live site]
 
